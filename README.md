@@ -27,8 +27,8 @@ Abaixo segue o que foi utilizado na criação deste template:
   - [eslint-plugin-react-native](https://github.com/Intellicode/eslint-plugin-react-native) - Regras de linting do ESLint específicas do React Native;
   - [eslint-import-resolver-babel-plugin-root-import](https://github.com/olalonde/eslint-import-resolver-babel-root-import) - Um resolver da lib _babel-root-import_ para a lib _eslint-plugin-import_;
 - [EditorConfig](https://editorconfig.org/) - O EditorConfig é um formatador de arquivos e coleções em forma de Plugin para Editores de código/texto com o objetivo de manter um padrão de código consistente entre diferentes editores, IDE's ou ambientes;
-- [react-native-iphone-x-helper]: (https://github.com/ptelad/react-native-iphone-x-helper) - A library to help you design your react-native app for notched iPhones.
-- [react-native-qrcode-svg]: (https://github.com/awesomejerry/react-native-qrcode-svg) - A QR Code generator for React Native based on react-native-svg and javascript-qrcode.
-- [react-native-vector-icons]: (https://github.com/oblador/react-native-vector-icons) - Perfect for buttons, logos and nav/tab bars. Easy to extend, style and integrate into your project.
-- [styled-components]: (https://github.com/styled-components/styled-components) - Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress.
+- [react-native-iphone-x-helper] (https://github.com/ptelad/react-native-iphone-x-helper) - A library to help you design your react-native app for notched iPhones.
+- [react-native-qrcode-svg] (https://github.com/awesomejerry/react-native-qrcode-svg) - A QR Code generator for React Native based on react-native-svg and javascript-qrcode.
+- [react-native-vector-icons] (https://github.com/oblador/react-native-vector-icons) - Perfect for buttons, logos and nav/tab bars. Easy to extend, style and integrate into your project.
+- [styled-components] (https://github.com/styled-components/styled-components) - Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress.
 
